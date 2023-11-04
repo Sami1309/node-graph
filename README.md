@@ -1,2 +1,1 @@
-# node-graph
-Created with CodeSandbox
+### Tutorial for React, D3, Typescript yt series
